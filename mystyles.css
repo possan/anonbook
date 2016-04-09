@@ -1,0 +1,90 @@
+
+body {
+	background-color: #f0f;
+}
+
+
+article header {
+    opacity: 0.0;
+    transition: 0.5s opacity ease-in-out;
+}
+
+article header:hover {
+    opacity: 1.0;
+}
+
+article footer {
+    opacity: 0.0;
+    transition: 0.5s opacity ease-in-out;
+}
+
+article footer:hover {
+    opacity: 1.0;
+}
+
+._5va3 {
+	opacity: 0.0;
+    transition: 0.5s opacity ease-in-out;
+}
+
+._5va3:hover {
+    opacity: 1.0;
+}
+
+._37uu {
+	opacity: 0.0;
+    transition: 0.5s opacity ease-in-out;
+}
+
+._37uu:hover {
+    opacity: 1.0;
+}
+
+._5pbw {
+	opacity: 0.0;
+    transition: 0.5s opacity ease-in-out;
+}
+
+._5pbw:hover {
+    opacity: 1.0;
+}
+
+._5pc9 {
+	opacity: 0.0;
+    transition: 0.5s opacity ease-in-out;
+}
+
+._5pc9:hover {
+    opacity: 1.0;
+}
+
+#rightCol {
+	opacity: 0.0;
+    transition: 0.5s opacity ease-in-out;
+}
+
+#rightCol:hover {
+	opacity: 1.0;
+}
+
+
+#leftCol {
+	opacity: 0.0;
+    transition: 0.5s opacity ease-in-out;
+}
+
+#leftCol:hover {
+	opacity: 1.0;
+}
+
+#globalContainer, ._li {
+	background-color: #fff;
+}
+
+._5vb_, ._5vb_ #contentCol {
+	background-color: #fff !important;
+}
+
+._4-u2 {
+	border: 0 !important;
+}

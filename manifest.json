@@ -1,0 +1,17 @@
+{
+  "manifest_version": 2,
+
+  "name": "Anonymous Book",
+  "description": "This extension hides the authors/bylines on facebook",
+  "version": "1.0",
+
+  "content_scripts": [
+    {
+      "matches": ["https://*.facebook.com/*", "https://facebook.com/*"],
+      "css": ["mystyles.css"],
+      "js": ["myscript.js"]
+    }
+  ],
+
+  "permissions": [ "activeTab" ]
+}
